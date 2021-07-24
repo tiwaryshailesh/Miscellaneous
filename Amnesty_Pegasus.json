@@ -1,5 +1,6 @@
 {
-	"name": "layer",
+	"name": "Pegasus-July,2021",
+    "author": "Shailesh Tiwary",
 	"versions": {
 		"attack": "9",
 		"navigator": "4.3",
@@ -234,7 +235,7 @@
 		{
 			"techniqueID": "T1449",
 			"tactic": "network-effects",
-			"color": "#fd8d3c",
+			"color": "#fce93b",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
